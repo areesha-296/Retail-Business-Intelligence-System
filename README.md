@@ -97,7 +97,7 @@ Pivot Tables were created to analyze business performance from multiple perspect
 
 ### Screenshot
 
-![Pivot Analysis](Images/pivot_analysis.png)
+![Pivot Analysis](Images/pivot_tables.png)
 
 ---
 
