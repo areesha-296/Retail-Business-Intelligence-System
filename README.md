@@ -97,7 +97,7 @@ Pivot Tables were created to analyze business performance from multiple perspect
 
 ### Screenshot
 
-![Pivot Analysis](screenshots/02-pivot-analysis.png)
+![Pivot Analysis](Images/pivot_analysis.png)
 
 ---
 
@@ -123,7 +123,7 @@ An interactive dashboard was developed to provide a high-level overview of busin
 
 ### Screenshot
 
-![Dashboard](screenshots/03-dashboard.png)
+![Dashboard](Images/dashboard.png)
 
 ---
 ## Key Findings
@@ -149,8 +149,7 @@ Key focus areas include:
 
 ### Screenshot
 
-![Final Report](<img width="683" height="666" alt="Report" src="https://github.com/user-attachments/assets/1441cec2-139e-47aa-be55-4c8d0ae9ba84" />
-)
+![Final Report](Images/report.png)
 
 ---
 
