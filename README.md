@@ -81,7 +81,7 @@ This sheet contains advanced analytical calculations and business summaries, inc
 
 ### Screenshot
 
-![Formula & Analysis](screenshots/01-formula-analysis.png)
+![Formula & Analysis](Images?/Formula & Analysis.png)
 
 ---
 
